@@ -13,7 +13,7 @@ html{
 }
 
 body{
-    background:linear-gradient(135deg,#ffb6e6,#9ecbff);
+    background:linear-gradient(135deg,#d452a6,#5a9be4);
     color:white;
     overflow-x:hidden;
 }
@@ -297,7 +297,11 @@ audio{
     font-size:24px;
 }
 
-
+img {width: 200px;
+    margin-bottom: 25px;
+    border-radius: 20%;
+    border: 5px;
+}
 
 .social{
     display:flex;
